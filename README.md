@@ -23,7 +23,7 @@
 - 🌱 I'm currently learning: **📚 AI Technologies and Database**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vijay-deepak)
 - 💬 Ask me about: **💡 JavaScript, React, and RESTful APIs**
-- 📝 Blog: **<a href="https://vijayasekhar-deepak.beehiiv.com/" target="_blank">Visit my Newsletter</a>**
+- 📝 Newsletter: **<a href="https://vijayasekhar-deepak.beehiiv.com/" target="_blank">Visit my Newsletter</a>**
 
 
  **<h3 align="left">Skills</h3>**
