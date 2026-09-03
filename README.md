@@ -66,8 +66,8 @@ Rather than shipping endless side projects, I am currently dedicated to pure lea
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijaydeepak-vd&theme=tokyonight&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vijaydeepak-vd&theme=tokyonight&hide_title=true&layout=compact&langs_count=5" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vijaydeepak-vd&theme=tokyonight&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vijaydeepak-vd&theme=tokyonight&hide_title=true&layout=compact&langs_count=5&cache_seconds=86400" alt="Top Languages" width="48%" />
 </div>
 
 <br>
