@@ -67,9 +67,9 @@ Rather than shipping endless side projects, I am currently dedicated to pure lea
 
 <div align="center">
   <!-- Overall Stats -->
-  <img src="https://streak-stats.demolab.com/?user=vijaydeepak-vd&theme=tokyonight&hide_border=true" alt="GitHub stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=vijaydeepak-vd&theme=tokyonight&hide_border=true" alt="GitHub stats" width="48%" height="250px" />
   <!-- Top Languages alternative via GitStats -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vijaydeepak-vd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vijaydeepak-vd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" height="250px" />
 </div>
 
 <br>
